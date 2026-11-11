@@ -1,0 +1,19 @@
+{
+  "name": "gmail-operations",
+  "description": "Run real, multi-step Gmail work through the Composio MCP gateway: bulk delete, message triage, and the failure modes that leave a draft unsent.",
+  "owner": {
+    "name": "Julylan Johnson",
+    "url": "https://github.com/Verstige"
+  },
+  "metadata": {
+    "description": "Run real, multi-step Gmail work through the Composio MCP gateway: bulk delete, message triage, and the failure modes that leave a draft unsent.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "gmail-operations",
+      "source": "./plugins/gmail-operations",
+      "description": "Run real, multi-step Gmail work through the Composio MCP gateway: bulk delete, message triage, and the failure modes that leave a draft unsent."
+    }
+  ]
+}

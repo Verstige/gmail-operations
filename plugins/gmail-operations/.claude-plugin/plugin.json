@@ -1,0 +1,18 @@
+{
+  "name": "gmail-operations",
+  "displayName": "Gmail Operations",
+  "version": "1.0.0",
+  "description": "Run real, multi-step Gmail work through the Composio MCP gateway: bulk delete, message triage, and the failure modes that leave a draft unsent.",
+  "author": {
+    "name": "the maintainers"
+  },
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "agent",
+    "gmail operations"
+  ],
+  "skills": [
+    "./skills/"
+  ]
+}
